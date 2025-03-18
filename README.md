@@ -21,7 +21,7 @@ Este proyecto proporciona una serie de scripts automatizados para mejorar la seg
 ## Instalación y Uso
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu_usuario/hardening_linux.git
+   git clone https://github.com/adriivara/Linux-Hardening
    cd hardening_linux
    ```
 
