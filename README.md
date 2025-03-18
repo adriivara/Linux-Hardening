@@ -5,7 +5,7 @@ Este proyecto proporciona una serie de scripts automatizados para mejorar la seg
 
 ## Estructura del Proyecto
 ```
-📂 hardening_linux/
+📂 Linux-Hardening/
 ├── 📂 scripts/
 │   ├── disable_services.sh      # Deshabilita servicios innecesarios
 │   ├── configure_firewall.sh    # Configura el firewall
@@ -22,7 +22,7 @@ Este proyecto proporciona una serie de scripts automatizados para mejorar la seg
 1. **Clonar el repositorio**
    ```bash
    git clone https://github.com/adriivara/Linux-Hardening
-   cd hardening_linux
+   cd Linux-Hardening
    ```
 
 2. **Dar permisos de ejecución a los scripts**
